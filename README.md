@@ -60,7 +60,7 @@
   <tr>
       <td>5</td>
       <td>
-        <a href="">Teachings moved to Wednessday 20/3</a>
+        <a href=""></a>
       </td>
       <td></td>
   </tr>  
