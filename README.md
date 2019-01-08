@@ -150,7 +150,7 @@
       <td><a href="">Buffer</a></td>
       <td></td>
   </tr>
-  <tr>
+  <tr style="background-color: #3a7090; color:#fff">
       <td>9</td>
       <td><a href="">Easter Holliday</a></td>
       <td></td>
