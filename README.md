@@ -187,7 +187,7 @@
   </tr>
   <tr>
       <td>12</td>
-      <td><a href="">Buffer</a></td>
+      <td><a href="">No Teachings - St. Bededag</a></td>
       <td></td>
   </tr>
   <tr>
