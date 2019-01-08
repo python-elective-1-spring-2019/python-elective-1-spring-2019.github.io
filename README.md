@@ -171,7 +171,7 @@
   </tr>
   <tr>
       <td>11</td>
-      <td><a href="">Lampda and List Comprehensions</a></td>
+      <td><a href="">Lambda and List Comprehensions</a></td>
       <td></td>
   </tr>
   <tr>
