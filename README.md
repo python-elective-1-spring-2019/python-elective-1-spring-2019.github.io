@@ -7,7 +7,7 @@
     #tbl {display: inline-table}
     td {vertical-align: top;}
     thead th {background-color: #3a7090; color:#ffffff}
-    td:nth-child(1) {color: #3a7090}
+    td:nth-child(1) {color: #3a7090; text-align:center}
   </style>
 </head>
 # Python Elective I Spring 2019
