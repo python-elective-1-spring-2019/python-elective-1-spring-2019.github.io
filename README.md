@@ -260,23 +260,23 @@ __Teacher: Claus Bové (clbo@kea.dk)__
         {week : 9, date : '23-04'},        
         {week : 9, date : '26-04'},
 
-        {week : 10, date : '30/4'},
-        {week : 10, date : '3/5'},
+        {week : 10, date : '30-04'},
+        {week : 10, date : '03-05'},
 
-        {week : 11, date : '7/5'},
-        {week : 11, date : '10/5'},
+        {week : 11, date : '07-05'},
+        {week : 11, date : '10-05'},
 
-        {week : 12, date : '14/5'},
-        {week : 12, date : '17/5'},
+        {week : 12, date : '14-05'},
+        {week : 12, date : '17-05'},
 
-        {week : 13, date : '21/5'},
-        {week : 13, date : '24/5'},
+        {week : 13, date : '21-05'},
+        {week : 13, date : '24-05'},
 
-        {week : 14, date : '28/5'},
-        {week : 14, date : '31/5'},
+        {week : 14, date : '28-05'},
+        {week : 14, date : '31-05'},
 
-        {week : 15, date : '4/6'},
-        {week : 15, date : '7/6'}
+        {week : 15, date : '04-06'},
+        {week : 15, date : '07-06'}
 
     ]; 
   
@@ -290,7 +290,7 @@ __Teacher: Claus Bové (clbo@kea.dk)__
      }
 
       var tds = rows[i].getElementsByTagName("td"); 
-      tds[0].innerHTML= dates[i-1].date + '-2019'; 
+      tds[0].innerHTML= dates[i-1].date + ' - 2019'; 
       // tds[1].innerHTML= dates[i-1].date + ' - 2018';  
     } 
  
