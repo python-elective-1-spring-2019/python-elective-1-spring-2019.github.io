@@ -131,7 +131,7 @@
   <tr> 
       <td>7</td>
       <td>
-        <a href="">Functions, Inner functions, callback functions, functions as parameters, closure, Lambda</a>
+        <a href=""></a>
       </td>
       <td></td>
   </tr>
@@ -181,7 +181,7 @@
   </tr>
   <tr>
       <td>12</td>
-      <td><a href="">Datatime</a></td>
+      <td><a href="">Datetime</a></td>
       <td></td>
   </tr>
   <tr>
