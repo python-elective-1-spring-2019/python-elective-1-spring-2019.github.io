@@ -161,17 +161,17 @@
   </tr>
   <tr> 
       <td>10</td>
-      <td><a href=""></a></td>
+      <td><a href="">Sockets & Chat Server</a></td>
       <td></td>
   </tr>
   <tr>
       <td>10</td>
-      <td><a href=""></a></td>
+      <td><a href="">Sockets & Chat Server</a></td>
       <td></td>
   </tr>
   <tr>
       <td>11</td>
-      <td><a href=""></a></td>
+      <td><a href="">Lampda and List Comprehensions</a></td>
       <td></td>
   </tr>
   <tr>
