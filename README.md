@@ -31,7 +31,7 @@
   <tr>
       <td>1</td>
       <td>    
-        <a href="https://github.com/python-elective-1-spring-2019/day1_intro">Introduction to Python and Python Strings</a></td>
+        <a href="https://github.com/python-elective-1-spring-2019/introduction_to_python_and_python_strings">Introduction to Python and Python Strings</a></td>
     <td><a href="https://github.com/python-elective-1-spring-2019?utf8=%E2%9C%93&q=day_1">All materials from today</a></td>
   </tr>
   
