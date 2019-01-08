@@ -74,7 +74,7 @@
       <td></td>
   </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
         <a href="">Unit Tests</a>
       </td>
@@ -90,7 +90,7 @@
   </tr>
   
   <tr>      
-      <td>4</td>
+      <td>5</td>
       <td>
         <a href="">OOP</a>
       </td>
@@ -115,7 +115,7 @@
   <tr> 
       <td>6</td>
       <td>
-        <a href="">GUI - TKinter</a>
+        <a href="">Text Editor Exercise</a>
       </td>
       <td></td>
   </tr>
@@ -131,7 +131,7 @@
   <tr> 
       <td>7</td>
       <td>
-        <a href="">Text Editor Exercise</a>
+        <a href="">Functions, Inner functions, callback functions, functions as parameters, closure</a>
       </td>
       <td></td>
   </tr>
