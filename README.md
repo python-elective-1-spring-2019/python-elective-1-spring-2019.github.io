@@ -231,34 +231,34 @@ __Teacher: Claus Bové (clbo@kea.dk)__
 <script>
  var dates = [
 
-        {week : 1, date : '19-02-2019'}, 
-        {week : 1, date : '22-02-2019'}, 
+        {week : 1, date : '19-02'}, 
+        {week : 1, date : '22-02'}, 
 
-        {week : 2, date : '26-02-2019'}, 
-        {week : 2, date : '01-03-2019'}, 
+        {week : 2, date : '26-02'}, 
+        {week : 2, date : '01-03'}, 
 
         // go agile
-        {week : 3, date : '05-03-2019'}, 
-        {week : 3, date : '08-03-2019'},
+        {week : 3, date : '05-03'}, 
+        {week : 3, date : '08-03'},
 
-        {week : 4, date : '12-03-2019'}, 
-        {week : 4, date : '15-03-2019'},
+        {week : 4, date : '12-03'}, 
+        {week : 4, date : '15-03'},
 
-        {week : 5, date : '19-03-2019'}, 
-        {week : 5, date : '22-03-2019'}, 
+        {week : 5, date : '19-03'}, 
+        {week : 5, date : '22-03'}, 
 
-        {week : 6, date : '26-03-2019'}, 
-        {week : 6, date : '29-03-2019'}, 
+        {week : 6, date : '26-03'}, 
+        {week : 6, date : '29-03'}, 
 
-        {week : 7, date : '02-04-2019'}, 
-        {week : 7, date : '05-04-2019'},
+        {week : 7, date : '02-04'}, 
+        {week : 7, date : '05-04'},
 
-        {week : 8, date : '09-04-2019'},
-        {week : 8, date : '12-04-2019'},
+        {week : 8, date : '09-04'},
+        {week : 8, date : '12-04'},
 
         // week 9 Easter
-        {week : 9, date : '23-04-2019'},        
-        {week : 9, date : '26-04-2019'},
+        {week : 9, date : '23-04'},        
+        {week : 9, date : '26-04'},
 
         {week : 10, date : '30/4'},
         {week : 10, date : '3/5'},
