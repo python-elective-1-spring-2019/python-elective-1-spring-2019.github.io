@@ -53,7 +53,7 @@
   <tr>    
       <td>2</td>
       <td>
-         <a href="">Python Utilities or modules</a>
+         <a href="">Python Utilities and Modules</a>
       </td>
       <td></td>
   </tr>
@@ -267,7 +267,7 @@ __Teacher: Claus Bové (clbo@kea.dk)__
         {week : 11, date : '10-05'},
 
         {week : 12, date : '14-05'},
-        {week : 12, date : '17-05'},
+        {week : 12, date : '17-05'}, // st. bededag
 
         {week : 13, date : '21-05'},
         {week : 13, date : '24-05'},
