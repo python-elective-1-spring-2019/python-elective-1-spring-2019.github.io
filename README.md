@@ -187,7 +187,7 @@
   </tr>
   <tr>
       <td>12</td>
-      <td><a href="">No Teachings - St. Bededag</a></td>
+      <td style="background-color: #3a7090; color:#fff">No Teachings - St. Bededag</td>
       <td></td>
   </tr>
   <tr>
