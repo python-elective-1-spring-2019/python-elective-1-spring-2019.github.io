@@ -131,7 +131,7 @@
   <tr> 
       <td>7</td>
       <td>
-        <a href="">Functions, Inner functions, callback functions, functions as parameters, closure</a>
+        <a href="">Functions, Inner functions, callback functions, functions as parameters, closure, Lambda</a>
       </td>
       <td></td>
   </tr>
