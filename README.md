@@ -290,7 +290,7 @@ __Teacher: Claus Bové (clbo@kea.dk)__
      }
 
       var tds = rows[i].getElementsByTagName("td"); 
-      tds[0].innerHTML= dates[i-1].date + ' - 2019'; 
+      tds[0].innerHTML= dates[i-1].date + '-2019'; 
       // tds[1].innerHTML= dates[i-1].date + ' - 2018';  
     } 
  
