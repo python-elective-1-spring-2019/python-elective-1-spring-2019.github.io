@@ -36,14 +36,14 @@
   </tr>
   
   <tr>  
-      <td>2</td>
+      <td>1</td>
       <td>
         <a href="">Python Basics</a></td>
       <td><a href="https://github.com/python-elective-1-spring-2019?utf8=%E2%9C%93&q=day_2">All materials from today</a></td>
   </tr>
   
   <tr >
-      <td>3</td>
+      <td>2</td>
       <td>
         <a href=""></a>
       </td>
@@ -51,7 +51,7 @@
   </tr>
   
   <tr>    
-      <td>4</td>
+      <td>2</td>
       <td>
          <a href=""></a>
       </td>
@@ -59,7 +59,7 @@
   </tr>
   
   <tr>
-      <td>5</td>
+      <td>3</td>
       <td>
         <a href=""></a>
       </td>
@@ -67,7 +67,7 @@
   </tr>  
   
   <tr>    
-      <td>6</td> 
+      <td>3</td> 
       <td>
         <a href=""></a>
       </td>
@@ -75,7 +75,7 @@
   </tr>
 
   <tr>     
-      <td>7</td>
+      <td>4</td>
       <td>
         <a href=""></a>
       </td>
@@ -83,7 +83,7 @@
   </tr>
   
   <tr>      
-      <td>8</td>
+      <td>4</td>
       <td>
         <a href=""></a>
       </td>
@@ -91,7 +91,7 @@
   </tr>
 
   <tr>
-      <td>9</td>
+      <td>5</td>
       <td>
         <a href=""></a>
       </td>
@@ -99,7 +99,7 @@
   </tr>
   
   <tr>   
-      <td>10</td>
+      <td>5</td>
       <td>
         <a href=""></a>
       </td>
@@ -107,14 +107,14 @@
   </tr>
   
   <tr>  
-      <td>11</td>
+      <td>6</td>
       <td>
         <a href=""></a>
       </td>
       <td></td>
   </tr>
   <tr> 
-      <td>12</td>
+      <td>6</td>
       <td>
         <a href=""></a>
       </td>
@@ -122,7 +122,7 @@
   </tr>
   
   <tr>  
-      <td>13</td>
+      <td>7</td>
       <td>
         <a href=""></a>
       </td>
@@ -130,7 +130,7 @@
   </tr>
   
   <tr> 
-      <td>14</td>
+      <td>7</td>
       <td>
         <a href="">Searching, Sorting, Merging Algorithms</a>
       </td>
@@ -138,7 +138,7 @@
   </tr>
 
   <tr>  
-      <td>15</td>
+      <td>8</td>
       <td>
         <a href="">Searching, Sorting, Merging Algorithms</a>
       </td>
@@ -146,18 +146,18 @@
   </tr>
   
   <tr> 
-      <td>16</td>
+      <td>8</td>
       <td><a href="">Buffer</a></td>
       <td></td>
   </tr>
   <tr>
-      <td>17</td>
-      <td><a href="">Buffer</a></td>
+      <td>9</td>
+      <td><a href="">Easter Holliday</a></td>
       <td></td>
   </tr>
   <tr>
-      <td>18</td>
-      <td><a href="">Buffer</a></td>
+      <td>9</td>
+      <td><a href="">Easter Holliday</a></td>
       <td></td>
   </tr>
   <tr> 
