@@ -153,12 +153,12 @@
   <tr >
       <td>9</td>
       <td style="background-color: #3a7090; color:#fff">Easter Holliday</td>
-      <td></td>
+      <td style="background-color: #3a7090; color:#fff"></td>
   </tr>
   <tr >
       <td>9</td>
       <td style="background-color: #3a7090; color:#fff">Easter Holliday</td>
-      <td></td>
+      <td style="background-color: #3a7090; color:#fff"></td>
   </tr>
   <tr> 
       <td>10</td>
