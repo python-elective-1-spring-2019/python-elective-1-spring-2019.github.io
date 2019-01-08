@@ -31,21 +31,21 @@
   <tr>
       <td>1</td>
       <td>    
-        <a href="https://github.com/python-elective-1-spring-2019/day1_intro">Introduction to Python Elective</a></td>
+        <a href="https://github.com/python-elective-1-spring-2019/day1_intro">Introduction to Python and Python Strings</a></td>
     <td><a href="https://github.com/python-elective-1-spring-2019?utf8=%E2%9C%93&q=day_1">All materials from today</a></td>
   </tr>
   
   <tr>  
       <td>1</td>
       <td>
-        <a href="">Python Basics</a></td>
+        <a href="">Python Types, simple types, lists Tuples and Sorting</a></td>
       <td><a href="https://github.com/python-elective-1-spring-2019?utf8=%E2%9C%93&q=day_2">All materials from today</a></td>
   </tr>
   
   <tr >
       <td>2</td>
       <td>
-        <a href=""></a>
+        <a href="">Dictionary, Sets and files</a>
       </td>
       <td></td>
   </tr>
@@ -53,7 +53,7 @@
   <tr>    
       <td>2</td>
       <td>
-         <a href=""></a>
+         <a href="">Python Utilities or modules</a>
       </td>
       <td></td>
   </tr>
@@ -61,7 +61,7 @@
   <tr>
       <td>3</td>
       <td>
-        <a href=""></a>
+        <a href="">Git, Markdown and Curriculum Exercise</a>
       </td>
       <td></td>
   </tr>  
@@ -69,7 +69,7 @@
   <tr>    
       <td>3</td> 
       <td>
-        <a href=""></a>
+        <a href="">Curriculum Exercise</a>
       </td>
       <td></td>
   </tr>
