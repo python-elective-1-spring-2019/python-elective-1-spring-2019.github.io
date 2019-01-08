@@ -77,7 +77,7 @@
   <tr>     
       <td>4</td>
       <td>
-        <a href=""></a>
+        <a href="">OOP</a>
       </td>
       <td></td>
   </tr>
@@ -85,7 +85,7 @@
   <tr>      
       <td>4</td>
       <td>
-        <a href=""></a>
+        <a href="">OOP</a>
       </td>
       <td></td>
   </tr>
@@ -93,7 +93,7 @@
   <tr>
       <td>5</td>
       <td>
-        <a href=""></a>
+        <a href="">Testing</a>
       </td>
       <td></td>
   </tr>
@@ -101,7 +101,7 @@
   <tr>   
       <td>5</td>
       <td>
-        <a href=""></a>
+        <a href="">GUI - TKinter</a>
       </td>
       <td></td>
   </tr>
@@ -109,14 +109,14 @@
   <tr>  
       <td>6</td>
       <td>
-        <a href=""></a>
+        <a href="">GUI - TKinter</a>
       </td>
       <td></td>
   </tr>
   <tr> 
       <td>6</td>
       <td>
-        <a href=""></a>
+        <a href="">GUI - TKinter</a>
       </td>
       <td></td>
   </tr>
@@ -124,7 +124,7 @@
   <tr>  
       <td>7</td>
       <td>
-        <a href=""></a>
+        <a href="">Text Editor Exercise</a>
       </td>
       <td></td>
   </tr>
@@ -132,7 +132,7 @@
   <tr> 
       <td>7</td>
       <td>
-        <a href="">Searching, Sorting, Merging Algorithms</a>
+        <a href="">Text Editor Exercise</a>
       </td>
       <td></td>
   </tr>
@@ -147,7 +147,7 @@
   
   <tr> 
       <td>8</td>
-      <td><a href="">Buffer</a></td>
+      <td><a href="">Searching, Sorting, Merging Algorithms</a></td>
       <td></td>
   </tr>
   <tr >
@@ -162,27 +162,27 @@
   </tr>
   <tr> 
       <td>10</td>
-      <td><a href="">Buffer</a></td>
+      <td><a href=""></a></td>
       <td></td>
   </tr>
   <tr>
       <td>10</td>
-      <td><a href="">Buffer</a></td>
+      <td><a href=""></a></td>
       <td></td>
   </tr>
   <tr>
       <td>11</td>
-      <td><a href="">Buffer</a></td>
+      <td><a href=""></a></td>
       <td></td>
   </tr>
   <tr>
       <td>11</td>
-      <td><a href="">Buffer</a></td>
+      <td><a href=""></a></td>
       <td></td>
   </tr>
   <tr>
       <td>12</td>
-      <td><a href="">Buffer</a></td>
+      <td><a href=""></a></td>
       <td></td>
   </tr>
   <tr>
