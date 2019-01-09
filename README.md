@@ -38,7 +38,7 @@
   <tr>  
       <td>1</td>
       <td>
-        <a href="">Python Types, simple types, lists Tuples and Sorting</a></td>
+        <a href="">Python Types, simple types, Lists, Tuples and Sorting, Functions</a></td>
       <td><a href="https://github.com/python-elective-1-spring-2019?utf8=%E2%9C%93&q=day02">All materials from today</a></td>
   </tr>
   
@@ -157,7 +157,7 @@
   </tr>
   <tr> 
       <td>10</td>
-      <td><a href="">Sockets & Chat Server</a></td>
+      <td><a href="">Threads/a></td>
       <td></td>
   </tr>
   <tr>
