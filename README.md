@@ -32,7 +32,7 @@
       <td>1</td>
       <td>    
         <a href="https://github.com/python-elective-1-spring-2019/introduction_to_python_and_python_strings">Introduction to Python and Python Strings</a></td>
-    <td></td>
+    <td>test</td>
   </tr>
   
   <tr>  
@@ -42,35 +42,27 @@
       <td></td>
   </tr>
   
-  <tr >
+  <tr>
       <td>2</td>
-      <td>
-        <a href="">Dictionary, Sets, Reading and Writing Files</a>
-      </td>
+      <td><a href="">Dictionary, Sets, Reading and Writing Files</a></td>
       <td></td>
   </tr>
   
   <tr>    
       <td>2</td>
-      <td>
-         <a href="">Python Utilities and Modules</a>
-      </td>
+      <td><a href="">Python Utilities and Modules</a></td>
       <td></td>
   </tr>
   
   <tr>
       <td>3</td>
-      <td>
-        <a href="">Git, Markdown and Curriculum Exercise</a>
-      </td>
+      <td><a href="">Git, Markdown and Curriculum Exercise</a></td>
       <td></td>
   </tr>  
   
   <tr>    
       <td>3</td> 
-      <td>
-        <a href="">Curriculum Exercise</a>
-      </td>
+      <td><a href="">Curriculum Exercise</a></td>
       <td></td>
   </tr>
     <tr>     
