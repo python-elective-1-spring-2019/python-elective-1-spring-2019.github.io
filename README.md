@@ -131,7 +131,7 @@
   </tr>
   <tr> 
       <td>10</td>
-      <td><a href="">Threads/a></td>
+      <td><a href="">Threads</a></td>
       <td></td>
   </tr>
   <tr>
