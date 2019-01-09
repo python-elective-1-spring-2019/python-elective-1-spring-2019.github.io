@@ -75,68 +75,50 @@
   </tr>
     <tr>     
       <td>4</td>
-      <td>
-        <a href="">OOP</a>
-      </td>
+      <td><a href="">OOP</a></td>
       <td></td>
   </tr>
     <tr>
       <td>4</td>
-      <td>
-        <a href="">Unit Tests</a>
-      </td>
+      <td><a href="">Unit Tests</a> </td>
       <td></td>
   </tr>
     <tr>   
       <td>5</td>
-      <td>
-        <a href="">GUI - TKinter</a>
-      </td>
+      <td><a href="">GUI - TKinter</a></td>
       <td></td>
   </tr>
     <tr>  
       <td>5</td>
-      <td>
-        <a href="">GUI - TKinter</a>
-      </td>
+      <td><a href="">GUI - TKinter</a></td>
       <td></td>
   </tr>
   <tr> 
       <td>6</td>
-      <td>
-        <a href="">Text Editor Exercise</a>
-      </td>
+      <td><a href="">Text Editor Exercise</a></td>
       <td></td>
   </tr>
   <tr>      
       <td>6</td>
-      <td>
-        <a href=""></a>
-      </td>
+      <td><a href=""></a></td>
       <td></td>
   </tr>
   
   <tr>  
       <td>7</td>
-      <td>
-        <a href=""></a>
-      </td>
+      <td><a href=""></a></td>
       <td></td>
   </tr>
   
   <tr> 
       <td>7</td>
-      <td>
-        <a href="">Searching, Sorting, Merging Algorithms</a>
-      </td>
+      <td><a href="">Searching, Sorting, Merging Algorithms</a></td>
       <td></td>
   </tr>
 
   <tr>  
       <td>8</td>
-      <td>
-        <a href="">Searching, Sorting, Merging Algorithms</a>
-      </td>
+      <td><a href="">Searching, Sorting, Merging Algorithms</a></td>
       <td></td>
   </tr>
   
