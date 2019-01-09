@@ -32,14 +32,14 @@
       <td>1</td>
       <td>    
         <a href="https://github.com/python-elective-1-spring-2019/introduction_to_python_and_python_strings">Introduction to Python and Python Strings</a></td>
-    <td><a href="https://github.com/python-elective-1-spring-2019?utf8=%E2%9C%93&q=day01">All materials from today</a></td>
+    <td></td>
   </tr>
   
   <tr>  
       <td>1</td>
       <td>
         <a href="">Python Types, simple types, Lists, Tuples and Sorting, Functions</a></td>
-      <td><a href="https://github.com/python-elective-1-spring-2019?utf8=%E2%9C%93&q=day02">All materials from today</a></td>
+      <td></td>
   </tr>
   
   <tr >
