@@ -45,7 +45,7 @@
   <tr >
       <td>2</td>
       <td>
-        <a href="">Dictionary, Sets and files</a>
+        <a href="">Dictionary, Sets, Reading and Writing Files</a>
       </td>
       <td></td>
   </tr>
@@ -73,6 +73,13 @@
       </td>
       <td></td>
   </tr>
+    <tr>     
+      <td>4</td>
+      <td>
+        <a href="">OOP</a>
+      </td>
+      <td></td>
+  </tr>
     <tr>
       <td>4</td>
       <td>
@@ -80,58 +87,47 @@
       </td>
       <td></td>
   </tr>
-
-  <tr>     
-      <td>4</td>
+    <tr>   
+      <td>5</td>
       <td>
-        <a href="">OOP</a>
+        <a href="">GUI - TKinter</a>
       </td>
       <td></td>
   </tr>
-  
+    <tr>  
+      <td>5</td>
+      <td>
+        <a href="">GUI - TKinter</a>
+      </td>
+      <td></td>
+  </tr>
+  <tr> 
+      <td>6</td>
+      <td>
+        <a href="">Text Editor Exercise</a>
+      </td>
+      <td></td>
+  </tr>
   <tr>      
-      <td>5</td>
+      <td>6</td>
       <td>
-        <a href="">OOP</a>
-      </td>
-      <td></td>
-  </tr>
-  
-  <tr>   
-      <td>5</td>
-      <td>
-        <a href="">GUI - TKinter</a>
+        <a href=""></a>
       </td>
       <td></td>
   </tr>
   
   <tr>  
-      <td>6</td>
-      <td>
-        <a href="">GUI - TKinter</a>
-      </td>
-      <td></td>
-  </tr>
-  <tr> 
-      <td>6</td>
-      <td>
-        <a href="">Text Editor Exercise</a>
-      </td>
-      <td></td>
-  </tr>
-  
-  <tr>  
-      <td>7</td>
-      <td>
-        <a href="">Text Editor Exercise</a>
-      </td>
-      <td></td>
-  </tr>
-  
-  <tr> 
       <td>7</td>
       <td>
         <a href=""></a>
+      </td>
+      <td></td>
+  </tr>
+  
+  <tr> 
+      <td>7</td>
+      <td>
+        <a href="">Searching, Sorting, Merging Algorithms</a>
       </td>
       <td></td>
   </tr>
@@ -146,7 +142,7 @@
   
   <tr> 
       <td>8</td>
-      <td><a href="">Searching, Sorting, Merging Algorithms</a></td>
+      <td><a href=""></a></td>
       <td></td>
   </tr>
   <tr >
