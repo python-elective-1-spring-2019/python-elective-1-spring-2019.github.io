@@ -32,7 +32,7 @@
       <td>1</td>
       <td>    
         <a href="https://github.com/python-elective-1-spring-2019/introduction_to_python_and_python_strings">Introduction to Python and Python Strings</a></td>
-    <td>test</td>
+    <td></td>
   </tr>
   
   <tr>  
