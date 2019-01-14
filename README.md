@@ -67,7 +67,7 @@
   </tr>
     <tr>     
       <td>4</td>
-      <td><a href="">OOP & Virtual Environments and Packages</a></td>
+      <td><a href="">OOP, Virtual Environments and Packages</a></td>
       <td></td>
   </tr>
     <tr>
