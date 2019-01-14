@@ -67,7 +67,7 @@
   </tr>
     <tr>     
       <td>4</td>
-      <td><a href="">OOP</a></td>
+      <td><a href="">OOP & Virtual Environments and Packages</a></td>
       <td></td>
   </tr>
     <tr>
@@ -77,28 +77,28 @@
   </tr>
     <tr>   
       <td>5</td>
-      <td><a href="">GUI - TKinter</a></td>
+      <td><a href="">Test Driven Development</a></td>
       <td></td>
   </tr>
     <tr>  
       <td>5</td>
-      <td><a href="">GUI - TKinter</a></td>
+      <td><a href="">Infinte State Machines</a></td>
       <td></td>
   </tr>
   <tr> 
       <td>6</td>
-      <td><a href="">Text Editor Exercise</a></td>
+      <td><a href="">Desktop GUI</a></td>
       <td></td>
   </tr>
   <tr>      
       <td>6</td>
-      <td><a href=""></a></td>
+      <td><a href="">Desktop GUI</a></td>
       <td></td>
   </tr>
   
   <tr>  
       <td>7</td>
-      <td><a href=""></a></td>
+      <td><a href="">Text Editor Exercise</a></td>
       <td></td>
   </tr>
   
