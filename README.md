@@ -146,7 +146,7 @@
   </tr>
   <tr>
       <td>11</td>
-      <td><a href="">Json</a></td>
+      <td><a href="">JSON and Prototype REST API exercise</a></td>
       <td></td>
   </tr>
   <tr>
