@@ -141,12 +141,12 @@
   </tr>
   <tr>
       <td>11</td>
-      <td><a href="">JSON and FLASK REST API exercise</a></td>
+      <td><a href="">JSON and FLASK REST API prototype development</a></td>
       <td></td>
   </tr>
   <tr>
       <td>11</td>
-      <td><a href="">JSON and FLASK REST API exercise</a></td>
+      <td><a href="">JSON and FLASK Rest API prototype development</a></td>
       <td></td>
   </tr>
   <tr>
