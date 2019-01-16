@@ -98,7 +98,7 @@
   
   <tr>  
       <td>7</td>
-      <td><a href="">Text Editor Exercise</a></td>
+      <td><a href="">Gui Exercise</a></td>
       <td></td>
   </tr>
   
@@ -116,7 +116,7 @@
   
   <tr> 
       <td>8</td>
-      <td><a href=""></a></td>
+      <td><a href="">Lambda, List Comprehensions and Generators</a></td>
       <td></td>
   </tr>
   <tr >
@@ -141,12 +141,12 @@
   </tr>
   <tr>
       <td>11</td>
-      <td><a href="">Lambda and List Comprehensions and Generators</a></td>
+      <td><a href="">JSON and FLASK REST API exercise</a></td>
       <td></td>
   </tr>
   <tr>
       <td>11</td>
-      <td><a href="">JSON and Prototype REST API exercise</a></td>
+      <td><a href="">JSON and FLASK REST API exercise</a></td>
       <td></td>
   </tr>
   <tr>
