@@ -31,48 +31,48 @@
   <tr>
       <td>1</td>
       <td>    
-        <a href="https://github.com/python-elective-1-spring-2019/introduction_to_python_and_python_strings">Introduction to Python and Python Strings</a></td>
+        <a href="https://github.com/python-elective-1-spring-2019/Lesson_01_introduction_to_python_and_python_strings">Lesson 1: Introduction to Python and Python Strings</a></td>
     <td></td>
   </tr>
   
   <tr>  
       <td>1</td>
       <td>
-        <a href="">Python Types, simple types, Lists, Tuples and Sorting, Functions</a></td>
+        <a href="https://github.com/python-elective-1-spring-2019/Lesson_02_python_types_simple_types_lists_tuples_and_sorting">Lesson 2: Python Types, simple types, Lists, Tuples and Sorting, Functions</a></td>
       <td></td>
   </tr>
   
   <tr>
       <td>2</td>
-      <td><a href="">Dictionary, Sets, Reading and Writing Files</a></td>
+      <td><a href="">Lesson 3: Dictionary, Sets, Reading and Writing Files</a></td>
       <td></td>
   </tr>
   
   <tr>    
       <td>2</td>
-      <td><a href="">Python Utilities and Modules</a></td>
+      <td><a href="">Lesson 4: Python Utilities and Modules</a></td>
       <td></td>
   </tr>
   
   <tr>
       <td>3</td>
-      <td><a href="">Git, Markdown and Curriculum Exercise</a></td>
+      <td><a href="">Lesson 5: Git, Markdown and Curriculum Exercise</a></td>
       <td></td>
   </tr>  
   
   <tr>    
       <td>3</td> 
-      <td><a href="">Curriculum Exercise</a></td>
+      <td><a href="">Lesson 6: Curriculum Exercise</a></td>
       <td></td>
   </tr>
     <tr>     
       <td>4</td>
-      <td><a href="">Classels OOP, Virtual Environments and Packages</a></td>
+      <td><a href="">Lesson 7: Classels OOP, Virtual Environments and Packages</a></td>
       <td></td>
   </tr>
     <tr>
       <td>4</td>
-      <td><a href="">Unit Tests</a> </td>
+      <td><a href="">Lesson 8: Unit Tests</a> </td>
       <td></td>
   </tr>
     <tr>   
