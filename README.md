@@ -116,7 +116,7 @@
   
   <tr> 
       <td>8</td>
-      <td><a href="">Lambda, List Comprehensions and Generators</a></td>
+      <td><a href="">Lambda, List Comprehensions, Generators and Generator expressions</a></td>
       <td></td>
   </tr>
   <tr >
