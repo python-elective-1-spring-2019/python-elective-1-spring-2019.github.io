@@ -31,14 +31,14 @@
   <tr>
       <td>1</td>
       <td>    
-        <a href="https://github.com/python-elective-1-spring-2019/Lesson_01_introduction_to_python_and_python_strings/README.md">Lesson 1: Introduction to Python and Python Strings</a></td>
+        <a href="https://github.com/python-elective-1-spring-2019/Lesson_01_introduction_to_python_and_python_strings/blob/master/README.md">Lesson 1: Introduction to Python and Python Strings</a></td>
     <td></td>
   </tr>
   
   <tr>  
       <td>1</td>
       <td>
-        <a href="https://github.com/python-elective-1-spring-2019/Lesson_02_python_types_simple_types_lists_tuples_and_sorting/README.md">Lesson 2: Python Types, simple types, Lists, Tuples and Sorting, Functions</a></td>
+        <a href="https://github.com/python-elective-1-spring-2019/Lesson_02_python_types_simple_types_lists_tuples_and_sorting/blob/master/README.md">Lesson 2: Python Types, simple types, Lists, Tuples and Sorting, Functions</a></td>
       <td></td>
   </tr>
   
