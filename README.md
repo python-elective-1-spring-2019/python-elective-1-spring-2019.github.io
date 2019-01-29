@@ -12,8 +12,8 @@
 </head>
 # Python Elective I Spring 2019
 
-<!-- <div id="github"><a href="https://github.com/python-elective-1-spring-2019/">GitHub</a>
-</div> -->
+ <div id="github"><a href="https://github.com/python-elective-1-spring-2019/">GitHub</a>
+</div> 
 
 <div id="teachings">
   Teachings: <br> Tuesdays: 08:30 - 11:00<br>Fridays: 08:30 - 11:00<br> 
@@ -67,38 +67,38 @@
   </tr>
     <tr>     
       <td>4</td>
-      <td><a href="">Lesson 7: Classels OOP, Virtual Environments and Packages</a></td>
+      <td><a href="">Lesson 7: Classes, OOP, Virtual Environments and Packages</a></td>
       <td></td>
   </tr>
     <tr>
       <td>4</td>
-      <td><a href="">Lesson 8: Unit Tests</a> </td>
+      <td><a href="">Lesson 8: Classes, OOP, Virtual Environments and Packages</a> </td>
       <td></td>
   </tr>
     <tr>   
       <td>5</td>
-      <td><a href="">Test Driven Development</a></td>
+      <td><a href="">Lesson 9: Unit Tests</a></td>
       <td></td>
   </tr>
     <tr>  
       <td>5</td>
-      <td><a href="">Infinte State Machines</a></td>
+      <td><a href=""></a></td>
       <td></td>
   </tr>
   <tr> 
       <td>6</td>
-      <td><a href="">Desktop GUI</a></td>
+      <td><a href="">Infinte State Machines</a></td>
       <td></td>
   </tr>
   <tr>      
       <td>6</td>
-      <td><a href="">Desktop GUI</a></td>
+      <td><a href="">Searching, Sorting, Merging Algorithms</a></td>
       <td></td>
   </tr>
   
   <tr>  
       <td>7</td>
-      <td><a href="">Gui Exercise</a></td>
+      <td><a href="">Searching, Sorting, Merging Algorithms</a></td>
       <td></td>
   </tr>
   
@@ -141,17 +141,17 @@
   </tr>
   <tr>
       <td>11</td>
-      <td><a href="">JSON and FLASK REST API prototype development</a></td>
+      <td><a href="">Sockets & Chat Server</a></td>
       <td></td>
   </tr>
   <tr>
       <td>11</td>
-      <td><a href="">JSON and FLASK Rest API prototype development</a></td>
+      <td><a href="">JSON, Datetime, CSV files </a></td>
       <td></td>
   </tr>
   <tr>
       <td>12</td>
-      <td><a href="">Datetime</a></td>
+      <td><a href=""></a></td>
       <td></td>
   </tr>
   <tr>
