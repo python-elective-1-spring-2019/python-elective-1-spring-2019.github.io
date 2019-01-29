@@ -3,7 +3,7 @@
     
     h1:first-of-type {display: none;}
     #github {text-align: right; margin:-50px 0 50px 0}
-    #teachings {text-align: right; margin: 80px 0 10px 0}
+    #teachings {text-align: right; margin: 0px 0 10px 0}
     #tbl {display: inline-table}
     td {vertical-align: top;}
     thead th {background-color: #3a7090; color:#ffffff}
@@ -12,8 +12,8 @@
 </head>
 # Python Elective I Spring 2019
 
-<!--> <div id="github"><a href="https://github.com/python-elective-1-spring-2019/">GitHub</a>
-</div> -->
+<!-- <div id="github"><a href="https://github.com/python-elective-1-spring-2019/">GitHub</a>
+</div> 
 
 <div id="teachings">
   Teachings: <br> Tuesdays: 08:30 - 11:00<br>Fridays: 08:30 - 11:00<br> 
