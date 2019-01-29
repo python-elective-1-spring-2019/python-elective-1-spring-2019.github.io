@@ -161,32 +161,32 @@
   </tr>
   <tr>
       <td>13</td>
-      <td><a href="">Project</a></td>
+      <td><a href="">Test Exam</a></td>
       <td></td>
   </tr>
   <tr>
       <td>13</td>
-      <td><a href="">Project</a></td>
+      <td><a href="">Test Exam</a></td>
       <td></td>
   </tr>
   <tr>
       <td>14</td>
-      <td><a href="">Project</a></td>
+      <td><a href="">Evaluation & Recap</a></td>
       <td></td>
   </tr>
   <tr>
       <td>14</td>
-      <td><a href="">Project</a></td>
+      <td><a href="">Test Exam II</a></td>
       <td></td>
   </tr>
   <tr>    
       <td>15</td>
-      <td><a href="">Project</a></td>
+      <td><a href="">Test Exam II</a></td>
       <td></td>
   </tr>
   <tr>
       <td>15</td>
-      <td><a href="">Project</a></td>
+      <td><a href="">Evaluation II & Recap</a></td>
       <td></td>
   </tr>
 
