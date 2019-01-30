@@ -82,7 +82,7 @@
   </tr>
     <tr>  
       <td>5</td>
-      <td><a href=""></a></td>
+      <td><a href="">Functions, decorators, ...</a></td>
       <td></td>
   </tr>
   <tr> 
