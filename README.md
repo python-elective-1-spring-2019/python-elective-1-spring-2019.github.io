@@ -31,14 +31,14 @@
   <tr>
       <td>1</td>
       <td>    
-        <a href="https://github.com/python-elective-1-spring-2019/Lesson_01_introduction_to_python_and_python_strings/blob/master/README.md">Lesson 1: Introduction to the Python elective</a></td>
+        <a href="https://github.com/python-elective-1-spring-2019/Lesson_01_introduction_to_python_elective/blob/master/README.md">Lesson 1: Introduction to the Python elective</a></td>
     <td></td>
   </tr>
   
   <tr>  
       <td>1</td>
       <td>
-        <a href="https://github.com/python-elective-1-spring-2019/Lesson_02_python_types_simple_types_lists_tuples_and_sorting/blob/master/README.md">Lesson 2: Introduction to Python and Python Strings   </a></td>
+        <a href="https://github.com/python-elective-1-spring-2019/Lesson_02_introduction_to_python_and_python_strings/blob/master/README.md">Lesson 2: Introduction to Python and Python Strings   </a></td>
       <td></td>
   </tr>
   
@@ -62,12 +62,12 @@
   
   <tr>    
       <td>3</td> 
-      <td><a href="">Lesson 6: Git, Markdown and Curriculum Exercise</a></td>
+      <td><a href="">Lesson 6: Git, Markdown and Required reading Exercise</a></td>
       <td></td>
   </tr>
     <tr>     
       <td>4</td>
-      <td><a href="">Lesson 7: Curriculum Exercise</a></td>
+      <td><a href="">Lesson 7: Required reading Exercise</a></td>
       <td></td>
   </tr>
     <tr>
