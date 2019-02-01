@@ -44,7 +44,7 @@
   
   <tr>
       <td>2</td>
-      <td><a href="">Lesson 3: Python Types, simple types, Lists, Tuples and Sorting, Functions</a></td>
+      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson_03_Python_Types_simple_types_Lists_Tuples_and_Sorting_Functions/blob/master/README.md">Lesson 3: Python Types, simple types, Lists, Tuples and Sorting, Functions</a></td>
       <td></td>
   </tr>
   
@@ -200,13 +200,14 @@ __Teacher: Claus Bové (clbo@kea.dk)__
 <script>
  var dates = [
 
-        {week : 1, date : '19-02'}, 
-        {week : 1, date : '22-02'}, 
+        {week : 1, date : '08-02'},
+
+        {week : 2, date : '19-02'},
+        {week : 2, date : '22-02'}, 
 
         {week : 2, date : '26-02'}, 
         {week : 2, date : '01-03'}, 
 
-        // go agile
         {week : 3, date : '05-03'}, 
         {week : 3, date : '08-03'},
 
