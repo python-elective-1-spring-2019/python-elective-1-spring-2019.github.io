@@ -31,43 +31,43 @@
   <tr>
       <td>1</td>
       <td>    
-        <a href="https://github.com/python-elective-1-spring-2019/Lesson_01_introduction_to_python_and_python_strings/blob/master/README.md">Lesson 1: Introduction to Python and Python Strings</a></td>
+        <a href="https://github.com/python-elective-1-spring-2019/Lesson_01_introduction_to_python_and_python_strings/blob/master/README.md">Lesson 1: Introduction to the Python elective</a></td>
     <td></td>
   </tr>
   
   <tr>  
       <td>1</td>
       <td>
-        <a href="https://github.com/python-elective-1-spring-2019/Lesson_02_python_types_simple_types_lists_tuples_and_sorting/blob/master/README.md">Lesson 2: Python Types, simple types, Lists, Tuples and Sorting, Functions</a></td>
+        <a href="https://github.com/python-elective-1-spring-2019/Lesson_02_python_types_simple_types_lists_tuples_and_sorting/blob/master/README.md">Lesson 2: Introduction to Python and Python Strings   </a></td>
       <td></td>
   </tr>
   
   <tr>
       <td>2</td>
-      <td><a href="">Lesson 3: Dictionary, Sets, Reading and Writing Files</a></td>
+      <td><a href="">Lesson 3: Python Types, simple types, Lists, Tuples and Sorting, Functions</a></td>
       <td></td>
   </tr>
   
   <tr>    
       <td>2</td>
-      <td><a href="">Lesson 4: Python Utilities and Modules</a></td>
+      <td><a href="">Lesson 4: Dictionary, Sets, Reading and Writing Files</a></td>
       <td></td>
   </tr>
   
   <tr>
       <td>3</td>
-      <td><a href="">Lesson 5: Git, Markdown and Curriculum Exercise</a></td>
+      <td><a href="">Lesson 5: Python Utilities and Modules</a></td>
       <td></td>
   </tr>  
   
   <tr>    
       <td>3</td> 
-      <td><a href="">Lesson 6: Curriculum Exercise</a></td>
+      <td><a href="">Lesson 6: Git, Markdown and Curriculum Exercise</a></td>
       <td></td>
   </tr>
     <tr>     
       <td>4</td>
-      <td><a href="">Lesson 7: Classes, OOP, Virtual Environments and Packages</a></td>
+      <td><a href="">Lesson 7: Curriculum Exercise</a></td>
       <td></td>
   </tr>
     <tr>
@@ -77,17 +77,17 @@
   </tr>
     <tr>   
       <td>5</td>
-      <td><a href="">Lesson 9: Unit Tests</a></td>
+      <td><a href="">Lesson 9: Classes, OOP, Virtual Environments and Packages</a></td>
       <td></td>
   </tr>
     <tr>  
       <td>5</td>
-      <td><a href="">Functions, decorators, ...</a></td>
+      <td><a href="">Lesson 10: Unit Tests</a></td>
       <td></td>
   </tr>
   <tr> 
       <td>6</td>
-      <td><a href="">Infinte State Machines</a></td>
+      <td><a href="">Functions, decorators, ...</a></td>
       <td></td>
   </tr>
   <tr>      
