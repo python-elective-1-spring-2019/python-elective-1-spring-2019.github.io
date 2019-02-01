@@ -31,26 +31,26 @@
   <tr>
       <td>1</td>
       <td>    
-        <a href="https://github.com/python-elective-1-spring-2019/Lesson_01_introduction_to_python_elective/blob/master/README.md">Lesson 1: Introduction to the Python elective</a></td>
+        <a href="https://github.com/python-elective-1-spring-2019/Lesson-01-Introduction-to-the-Python-elective/blob/master/README.md">Lesson 1: Introduction to the Python elective</a></td>
     <td></td>
   </tr>
   
   <tr>  
       <td>1</td>
       <td>
-        <a href="https://github.com/python-elective-1-spring-2019/Lesson_02_introduction_to_python_and_python_strings/blob/master/README.md">Lesson 2: Introduction to Python and Python Strings   </a></td>
+        <a href="https://github.com/python-elective-1-spring-2019/Lesson-02-Introduction-to-Python-and-Python-Strings/blob/master/README.md">Lesson 2: Introduction to Python and Python Strings</a></td>
       <td></td>
   </tr>
   
   <tr>
       <td>2</td>
-      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson_03_Python_Types_simple_types_Lists_Tuples_and_Sorting_Functions/blob/master/README.md">Lesson 3: Python Types, simple types, Lists, Tuples and Sorting, Functions</a></td>
+      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-03-Python-Types-simple-types-Lists-Tuples-and-Sorting/blob/master/README.md">Lesson 3: Python Types, simple types, Lists, Tuples and Sorting, Functions</a></td>
       <td></td>
   </tr>
   
   <tr>    
       <td>2</td>
-      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson_04_dictionary_sets_reading_and_writing_files/blob/master/README.md">Lesson 4: Dictionary, Sets, Reading and Writing Files</a></td>
+      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-04-Dictionary-Sets-Reading-and-Writing-Files/blob/master/README.md">Lesson 4: Dictionary, Sets, Reading and Writing Files</a></td>
       <td></td>
   </tr>
   
