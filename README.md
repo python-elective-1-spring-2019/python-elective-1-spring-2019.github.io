@@ -50,7 +50,7 @@
   
   <tr>    
       <td>2</td>
-      <td><a href="">Lesson 4: Dictionary, Sets, Reading and Writing Files</a></td>
+      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson_04_dictionary_sets_reading_and_writing_files/blob/master/README.md">Lesson 4: Dictionary, Sets, Reading and Writing Files</a></td>
       <td></td>
   </tr>
   
