@@ -56,38 +56,38 @@
   
   <tr>
       <td>3</td>
-      <td><a href="">Lesson 5: Python Utilities and Modules</a></td>
+      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-05-Python-Utilities-and-Modules/blob/master/README.md">Lesson 5: Python Utilities and Modules</a></td>
       <td></td>
   </tr>  
   
   <tr>    
       <td>3</td> 
-      <td><a href="">Lesson 6: Git, Markdown and Required reading Exercise</a></td>
+      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-06-Git-Markdown-and-Required-reading-Exercise/blob/master/README.md">Lesson 6: Git, Markdown and Required reading Exercise</a></td>
       <td></td>
   </tr>
     <tr>     
       <td>4</td>
-      <td><a href="">Lesson 7: Required reading Exercise</a></td>
+      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-07-Required-reading-Exercise/blob/master/README.md">Lesson 7: Required reading Exercise</a></td>
       <td></td>
   </tr>
     <tr>
       <td>4</td>
-      <td><a href="">Lesson 8: Classes, OOP, Virtual Environments and Packages</a> </td>
+      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-08-Required-reading-Exercise/blob/master/README.md">Lesson 8: Required reading Exercise</a></td>
       <td></td>
   </tr>
     <tr>   
       <td>5</td>
-      <td><a href="">Lesson 9: Classes, OOP, Virtual Environments and Packages</a></td>
+      <td><a href="">Lesson 9: Unit Tests</a></td>
       <td></td>
   </tr>
     <tr>  
       <td>5</td>
-      <td><a href="">Lesson 10: Unit Tests</a></td>
+      <td><a href="">Lesson 10: Classes, OOP, Virtual Environments and Packages</a></td>
       <td></td>
   </tr>
   <tr> 
       <td>6</td>
-      <td><a href="">Functions, decorators, ...</a></td>
+      <td><a href="">Lesson 11: Classes, OOP, Virtual Environments and Packages</a></td>
       <td></td>
   </tr>
   <tr>      
@@ -116,7 +116,7 @@
   
   <tr> 
       <td>8</td>
-      <td><a href="">Lambda, List Comprehensions, Generators and Generator expressions</a></td>
+      <td><a href="">Searching, Sorting, Merging Algorithms</a></td>
       <td></td>
   </tr>
   <tr >
@@ -151,7 +151,7 @@
   </tr>
   <tr>
       <td>12</td>
-      <td><a href=""></a></td>
+      <td><a href="">Functions, decorators, Lambda, List Comprehensions, Generators and Generator expressions</a></td>
       <td></td>
   </tr>
   <tr>
