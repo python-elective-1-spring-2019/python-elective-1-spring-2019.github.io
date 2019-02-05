@@ -87,12 +87,12 @@
   </tr>
   <tr> 
       <td>6</td>
-      <td><a href="">Lesson 11: Classes, OOP, Virtual Environments and Packages</a></td>
+      <td><a href="">Lesson 11: Classes, OOP, Generators, </a></td>
       <td></td>
   </tr>
   <tr>      
       <td>6</td>
-      <td><a href="">Searching, Sorting, Merging Algorithms</a></td>
+      <td><a href="">Recursion, Searching, Sorting, Merging Algorithms</a></td>
       <td></td>
   </tr>
   
@@ -131,7 +131,7 @@
   </tr>
   <tr> 
       <td>10</td>
-      <td><a href="">Threads</a></td>
+      <td><a href="">Threads, Sockets & Chat Server</a></td>
       <td></td>
   </tr>
   <tr>
@@ -141,17 +141,17 @@
   </tr>
   <tr>
       <td>11</td>
-      <td><a href="">Sockets & Chat Server</a></td>
+      <td><a href="">JSON, Datetime, CSV files</a></td>
       <td></td>
   </tr>
   <tr>
       <td>11</td>
-      <td><a href="">JSON, Datetime, CSV files </a></td>
+      <td><a href="">Functions, Map, Filter, Reduce, decorators, Lambda, List Comprehensions, Generator expressions</a></td>
       <td></td>
   </tr>
   <tr>
       <td>12</td>
-      <td><a href="">Functions, decorators, Lambda, List Comprehensions, Generators and Generator expressions</a></td>
+      <td><a href="">Functions, Map, Filter, Reduce, decorators, Lambda, List Comprehensions, Generator expressions</a></td>
       <td></td>
   </tr>
   <tr>
