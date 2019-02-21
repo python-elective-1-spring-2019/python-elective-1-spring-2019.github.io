@@ -62,17 +62,17 @@
   
   <tr>    
       <td>3</td> 
-      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-06-Git-Markdown-and-Required-reading-Exercise/blob/master/README.md">Lesson 6: Git, Markdown and Required reading Exercise</a></td>
+      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-06-Git-Markdown-and-Required-reading-Exercise/blob/master/README.md">Lesson 6: Git, Markdown and the Mandatory "Required reading Exercise"</a></td>
       <td></td>
   </tr>
     <tr>     
       <td>4</td>
-      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-07-Required-reading-Exercise/blob/master/README.md">Lesson 7: Required reading Exercise</a></td>
+      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-07-Required-reading-Exercise/blob/master/README.md">Lesson 7: Mandatory "Required reading Exercise"</a></td>
       <td></td>
   </tr>
     <tr>
       <td>4</td>
-      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-08-Required-reading-Exercise/blob/master/README.md">Lesson 8: Required reading Exercise</a></td>
+      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-08-Required-reading-Exercise/blob/master/README.md">Lesson 8: Mandatory "Required reading Exercise" presentation</a></td>
       <td></td>
   </tr>
     <tr>   
