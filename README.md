@@ -62,7 +62,9 @@
   
   <tr>    
       <td>3</td> 
-      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-06-Git-Markdown-and-Required-reading-Exercise/blob/master/README.md">Lesson 6: Git, Markdown and the Mandatory "Required reading Exercise"</a></td>
+      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-05-Python-Utilities-and-Modules/blob/master/README.md">Lesson 5: Python Utilities and Modules</a><br>
+      
+      <a href="https://github.com/python-elective-1-spring-2019/Lesson-06-Git-Markdown-and-Required-reading-Exercise/blob/master/README.md">Lesson 6: Git, Markdown and the Mandatory "Required reading Exercise"</a></td>
       <td></td>
   </tr>
     <tr>     
