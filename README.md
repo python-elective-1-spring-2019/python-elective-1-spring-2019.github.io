@@ -56,7 +56,7 @@
   
   <tr>
       <td>3</td>
-      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-05-Python-Utilities-and-Modules/blob/master/README.md">Lesson 5: Python Utilities and Modules</a></td>
+      <td><s><a href="https://github.com/python-elective-1-spring-2019/Lesson-05-Python-Utilities-and-Modules/blob/master/README.md"><s>Lesson 5: Python Utilities and Modules</s></a></td>
       <td></td>
   </tr>  
   
