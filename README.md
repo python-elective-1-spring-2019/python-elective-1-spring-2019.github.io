@@ -79,12 +79,12 @@
   </tr>
     <tr>   
       <td>5</td>
-      <td><a href="">Lesson 9: Unit Tests</a></td>
+      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-09-Classes-OOP-Virtual-Environments-and-Packages">Lesson 9: Classes OOP, Virtual Environments</a></td>
       <td></td>
   </tr>
     <tr>  
       <td>5</td>
-      <td><a href="">Lesson 10: Classes, OOP, Virtual Environments and Packages</a></td>
+      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-10-Unit-Tests">Lesson 10: Unit Tests</a></td>
       <td></td>
   </tr>
   <tr> 
