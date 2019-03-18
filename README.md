@@ -141,6 +141,12 @@
       <td><a href="">Sockets & Chat Server</a></td>
       <td></td>
   </tr>
+    <tr>
+      <td>11</td>
+      <td style="background-color: #3a7090"><a href="https://github.com/python-elective-1-spring-2019/Mandatory_assignment_2/blob/master/README.md" style="color:#fff">Mandatory Assignment II - Handin on Fronter</a>
+      </td>
+      <td style="background-color: #3a7090; color:#fff"></td>
+  </tr>
   <tr>
       <td>11</td>
       <td><a href="">JSON, Datetime, CSV files</a></td>
@@ -233,6 +239,7 @@ __Teacher: Claus Bové (clbo@kea.dk)__
         {week : 9, date : '26-04'},
 
         {week : 10, date : '30-04'},
+        {week : 10, date : '01-05'},
         {week : 10, date : '03-05'},
 
         {week : 11, date : '07-05'},
