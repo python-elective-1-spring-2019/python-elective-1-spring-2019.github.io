@@ -84,7 +84,7 @@
   </tr>
     <tr>  
       <td>5</td>
-      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-10-Unit-Tests">Lesson 10: Unit Tests</a></td>
+      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-10-oop-ducktyping-decorators-abc">Lesson 10 OOP, Duck typing, decorators, abc</a></td>
       <td></td>
   </tr>
   <tr> 
