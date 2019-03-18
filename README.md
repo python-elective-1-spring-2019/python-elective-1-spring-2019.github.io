@@ -89,18 +89,18 @@
   </tr>
   <tr> 
       <td>6</td>
-      <td><a href="">Lesson 11: Classes, OOP, Generators, </a></td>
+      <td><a href="">Lesson 11: Unit Test</a></td>
       <td></td>
   </tr>
   <tr>      
       <td>6</td>
-      <td><a href="">Recursion, Searching, Sorting, Merging Algorithms</a></td>
+      <td><a href="">Lesson 12: Unit Test</a></td>
       <td></td>
   </tr>
   
   <tr>  
       <td>7</td>
-      <td><a href="">Searching, Sorting, Merging Algorithms</a></td>
+      <td><a href="">Recursion, Searching, Sorting, Merging Algorithms</a></td>
       <td></td>
   </tr>
   
