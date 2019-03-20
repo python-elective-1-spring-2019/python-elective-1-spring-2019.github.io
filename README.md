@@ -94,7 +94,7 @@
   </tr>
   <tr>      
       <td>6</td>
-      <td><a href="">Lesson 12: Unit Test</a></td>
+      <td><a href="">Lesson 12: Test driven develpment (TDD)</a></td>
       <td></td>
   </tr>
   
