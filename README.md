@@ -89,7 +89,7 @@
   </tr>
   <tr> 
       <td>6</td>
-      <td><a href="">Lesson 11: Unit Test</a></td>
+      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-11-Unit-Test/blob/master/README.md">Lesson 11: Unit Test</a></td>
       <td></td>
   </tr>
   <tr>      
