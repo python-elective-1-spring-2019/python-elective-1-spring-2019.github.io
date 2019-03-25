@@ -94,7 +94,7 @@
   </tr>
   <tr>      
       <td>6</td>
-      <td><a href="">Lesson 12: Test driven develpment (TDD)</a></td>
+      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-12-Testing-Debugging-Exeptions/blob/master/README.md">Lesson 12: Testing, Debuggin, Exeptions</a></td>
       <td></td>
   </tr>
   
