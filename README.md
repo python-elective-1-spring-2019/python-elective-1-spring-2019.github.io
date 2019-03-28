@@ -121,6 +121,11 @@
       <td><a href="">Searching, Sorting, Merging Algorithms</a></td>
       <td></td>
   </tr>
+    <tr> 
+      <td>8</td>
+      <td><a href="">II Searching, Sorting, Merging Algorithms</a></td>
+      <td></td>
+  </tr>
   <tr >
       <td>9</td>
       <td style="background-color: #3a7090; color:#fff">Easter Holliday</td>
