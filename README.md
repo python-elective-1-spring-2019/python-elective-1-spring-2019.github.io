@@ -100,7 +100,7 @@
   
   <tr>  
       <td>7</td>
-      <td><a href="">Recursion, Searching, Sorting, Merging Algorithms</a></td>
+      <td><a href="">No Teachings, moved to a later date.</a></td>
       <td></td>
   </tr>
   
