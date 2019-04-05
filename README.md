@@ -123,7 +123,7 @@
   </tr>
     <tr> 
       <td>8</td>
-      <td><a href="">II Searching, Sorting, Merging Algorithms</a></td>
+      <td><a href="">Lesson 15: Searching, Sorting, Merging Algorithms</a></td>
       <td></td>
   </tr>
   <tr >
