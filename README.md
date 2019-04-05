@@ -112,13 +112,13 @@
 
   <tr>  
       <td>8</td>
-      <td><a href="">Searching, Sorting, Merging Algorithms</a></td>
+      <td><a href="">No Teachings, moved to a later date.</a></td>
       <td></td>
   </tr>
   
   <tr> 
       <td>8</td>
-      <td><a href="">Searching, Sorting, Merging Algorithms</a></td>
+      <td><a href="">Lesson 14: Sorting, Merging Algorithms</a></td>
       <td></td>
   </tr>
     <tr> 
@@ -174,32 +174,32 @@
   </tr>
   <tr>
       <td>13</td>
-      <td><a href="">Test Exam</a></td>
+      <td><a href=""></a></td>
       <td></td>
   </tr>
   <tr>
       <td>13</td>
-      <td><a href="">Test Exam</a></td>
+      <td><a href=""></a></td>
       <td></td>
   </tr>
   <tr>
       <td>14</td>
-      <td><a href="">Evaluation & Recap</a></td>
+      <td><a href=""></a></td>
       <td></td>
   </tr>
   <tr>
       <td>14</td>
-      <td><a href="">Test Exam II</a></td>
+      <td><a href=""></a></td>
       <td></td>
   </tr>
   <tr>    
       <td>15</td>
-      <td><a href="">Test Exam II</a></td>
+      <td><a href=""></a></td>
       <td></td>
   </tr>
   <tr>
       <td>15</td>
-      <td><a href="">Evaluation II & Recap</a></td>
+      <td><a href="">Evaluation & Recap</a></td>
       <td></td>
   </tr>
 
