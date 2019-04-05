@@ -106,7 +106,7 @@
   
   <tr> 
       <td>7</td>
-      <td><a href="">Searching, Sorting, Merging Algorithms</a></td>
+      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-13-Searching-Algorithms-Recursive-Fuctions">Lesson 13: Searching Algorithms Recursive Functions</a></td>
       <td></td>
   </tr>
 
