@@ -194,7 +194,7 @@
   </tr>
   <tr>    
       <td>15</td>
-      <td><a href=""></a></td>
+      <td><a href="">Static site generators</a></td>
       <td></td>
   </tr>
   <tr>
