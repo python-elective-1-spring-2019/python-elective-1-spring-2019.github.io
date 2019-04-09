@@ -118,7 +118,7 @@
   
   <tr> 
       <td>8</td>
-      <td><a href="">Lesson 14: Sorting, Merging Algorithms</a></td>
+      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-14-Sorting-algorithms">Lesson 14: Sorting, Merging Algorithms</a></td>
       <td></td>
   </tr>
     <tr> 
