@@ -123,7 +123,7 @@
   </tr>
     <tr> 
       <td>8</td>
-      <td><a href="">Lesson 15: Searching, Sorting, Merging Algorithms</a></td>
+      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-15-Algorithms">Lesson 15: Algorithms</a></td>
       <td></td>
   </tr>
   <tr >
