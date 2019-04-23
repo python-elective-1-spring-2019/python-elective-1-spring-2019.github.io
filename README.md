@@ -138,12 +138,12 @@
   </tr>
   <tr> 
       <td>10</td>
-      <td><a href="">Threads, Sockets & Chat Server</a></td>
+      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-17-Python-Tips-and-Tricks">Lesson 17: Python Tips & Tricks</a></td>
       <td></td>
   </tr>
   <tr>
       <td>10</td>
-      <td><a href="">Sockets & Chat Server</a></td>
+      <td><a href=""></a></td>
       <td></td>
   </tr>
     <tr>
