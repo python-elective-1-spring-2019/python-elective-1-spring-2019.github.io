@@ -202,6 +202,21 @@
       <td><a href="">Evaluation & Recap</a></td>
       <td></td>
   </tr>
+  <tr>
+      <td>ex</td>
+      <td><a href="">Exam</a></td>
+      <td></td>
+  </tr>
+  <tr>    
+      <td>ex</td>
+      <td><a href="">Exam</a></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td>ex</td>
+      <td><a href="">Exam</a></td>
+      <td></td>
+  </tr>
 
   </tbody>
 </table>
@@ -264,6 +279,10 @@ __Teacher: Claus Bové (clbo@kea.dk)__
 
         {week : 15, date : '04-06'},
         {week : 15, date : '07-06'}
+
+        {week : 15, date : '14-06'},
+        {week : 15, date : '17-06'}, 
+        {week : 15, date : '18-06'}
 
     ]; 
   
