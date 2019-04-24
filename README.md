@@ -184,37 +184,37 @@
   </tr>
   <tr>
       <td>14</td>
-      <td><a href="">Exam Project Work</a></td>
+      <td><a href="https://github.com/python-elective-1-spring-2019/exam">Exam Project Work</a></td>
       <td></td>
   </tr>
   <tr>
       <td>14</td>
-      <td><a href="">Exam Project Work</a></td>
+      <td><a href="https://github.com/python-elective-1-spring-2019/exam">Exam Project Work</a></td>
       <td></td>
   </tr>
   <tr>    
       <td>15</td>
-      <td><a href="">Exam Project Work</a></td>
+      <td><a href="https://github.com/python-elective-1-spring-2019/exam">Exam Project Work</a></td>
       <td></td>
   </tr>
   <tr>
       <td>15</td>
-      <td><a href="">Exam Project Work</a></td>
+      <td><a href="https://github.com/python-elective-1-spring-2019/exam">Exam Project Work</a></td>
       <td></td>
   </tr>
   <tr>
       <td>ex</td>
-      <td><a href="">Exam</a></td>
+      <td><a href="https://github.com/python-elective-1-spring-2019/exam">Exam</a></td>
       <td></td>
   </tr>
   <tr>    
       <td>ex</td>
-      <td><a href="">Exam</a></td>
+      <td><a href="https://github.com/python-elective-1-spring-2019/exam">Exam</a></td>
       <td></td>
   </tr>
   <tr>
       <td>ex</td>
-      <td><a href="">Exam</a></td>
+      <td><a href="https://github.com/python-elective-1-spring-2019/exam">Exam</a></td>
       <td></td>
   </tr>
 
