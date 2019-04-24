@@ -159,12 +159,12 @@
   </tr>
   <tr>
       <td>11</td>
-      <td><a href="">Functions, Map, Filter, Reduce, decorators, Lambda, List Comprehensions, Generator expressions</a></td>
+      <td><a href="">Lesson 20: Python Sockets & Chat Server</a></td>
       <td></td>
   </tr>
   <tr>
       <td>12</td>
-      <td><a href="">Functions, Map, Filter, Reduce, decorators, Lambda, List Comprehensions, Generator expressions</a></td>
+      <td><a href=""></a></td>
       <td></td>
   </tr>
   <tr>
