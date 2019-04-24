@@ -143,7 +143,12 @@
   </tr>
   <tr>
       <td>10</td>
-      <td><a href=""></a></td>
+      <td><a href="">Lesson 18: Python Tips & Tricks II</a></td>
+      <td></td>
+  </tr>
+    <tr>
+      <td>11</td>
+      <td><a href="">Lesson 19: Python Sockets & Chat Server</a></td>
       <td></td>
   </tr>
     <tr>
@@ -151,11 +156,6 @@
       <td style="background-color: #3a7090"><a href="https://github.com/python-elective-1-spring-2019/Mandatory_assignment_2/blob/master/README.md" style="color:#fff">Mandatory Assignment II - Handin on Fronter</a>
       </td>
       <td style="background-color: #3a7090; color:#fff"></td>
-  </tr>
-  <tr>
-      <td>11</td>
-      <td><a href="">JSON, Datetime, CSV files</a></td>
-      <td></td>
   </tr>
   <tr>
       <td>11</td>
