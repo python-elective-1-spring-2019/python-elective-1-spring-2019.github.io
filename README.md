@@ -184,22 +184,22 @@
   </tr>
   <tr>
       <td>14</td>
-      <td><a href=""></a></td>
+      <td><a href="">Exam Project Work</a></td>
       <td></td>
   </tr>
   <tr>
       <td>14</td>
-      <td><a href=""></a></td>
+      <td><a href="">Exam Project Work</a></td>
       <td></td>
   </tr>
   <tr>    
       <td>15</td>
-      <td><a href="">Static site generators</a></td>
+      <td><a href="">Exam Project Work</a></td>
       <td></td>
   </tr>
   <tr>
       <td>15</td>
-      <td><a href="">Evaluation & Recap</a></td>
+      <td><a href="">Exam Project Work</a></td>
       <td></td>
   </tr>
   <tr>
