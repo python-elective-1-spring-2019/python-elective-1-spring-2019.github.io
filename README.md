@@ -148,7 +148,7 @@
   </tr>
     <tr>
       <td>11</td>
-      <td><a href="">Lesson 19: Python Sockets & Chat Server</a></td>
+      <td><a href=""></a></td>
       <td></td>
   </tr>
     <tr>
@@ -159,7 +159,7 @@
   </tr>
   <tr>
       <td>11</td>
-      <td><a href="">Lesson 20: Python Sockets & Chat Server</a></td>
+      <td><a href=""></a></td>
       <td></td>
   </tr>
   <tr>
