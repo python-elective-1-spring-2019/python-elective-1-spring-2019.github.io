@@ -278,7 +278,7 @@ __Teacher: Claus Bové (clbo@kea.dk)__
         {week : 14, date : '31-05'},
 
         {week : 15, date : '04-06'},
-        {week : 15, date : '07-06'}
+        {week : 15, date : '07-06'},
 
         {week : 15, date : '14-06'},
         {week : 15, date : '17-06'}, 
