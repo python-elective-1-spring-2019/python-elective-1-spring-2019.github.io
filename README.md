@@ -143,12 +143,14 @@
   </tr>
   <tr>
       <td>10</td>
-      <td><a href="">Lesson 18: Python Tips & Tricks II</a></td>
+      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-18-Python-Tips-and-Tricks-II">Lesson 18: Python Tips & Tricks II</a></td>
       <td></td>
   </tr>
     <tr>
       <td>11</td>
-      <td><a href="">Lesson 19: Protocols, @property</a></td>
+      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-19-property-protocols-arg-in-generator">Lesson 19: Prodef greet(name):
+    print('Hello {name}')
+ tocols, @property</a></td>
       <td></td>
   </tr>
     <tr>
@@ -159,7 +161,7 @@
   </tr>
   <tr>
       <td>11</td>
-      <td><a href=""></a></td>
+      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-20-generators-generator-expression">Lesson 20: Generators</a></td>
       <td></td>
   </tr>
   <tr>
@@ -167,21 +169,22 @@
       <td><a href=""></a></td>
       <td></td>
   </tr>
+    <tr>
+      <td>13</td>
+      <td><a href=""></a></td>
+      <td></td>
+  </tr>
   <tr>
+      <td>13</td>
+      <td><a href=""></a></td>
+      <td></td>
+  </tr>
+<tr>
       <td>12</td>
       <td style="background-color: #3a7090; color:#fff">No Teachings - St. Bededag</td>
       <td style="background-color: #3a7090; color:#fff"></td>
   </tr>
-  <tr>
-      <td>13</td>
-      <td><a href=""></a></td>
-      <td></td>
-  </tr>
-  <tr>
-      <td>13</td>
-      <td><a href=""></a></td>
-      <td></td>
-  </tr>
+
   <tr>
       <td>14</td>
       <td><a href="https://github.com/python-elective-1-spring-2019/exam">Exam Project Work</a></td>
