@@ -172,12 +172,12 @@
       <td><a href="">Lesson 22: </a></td>
       <td></td>
  </tr>
-<tr> 
  <tr>
       <td>12</td>
       <td><a href="">Lesson 23: </a></td>
       <td></td>
- 
+</tr>
+<tr> 
       <td>12</td>
       <td style="background-color: #3a7090; color:#fff">No Teachings - St. Bededag</td>
       <td style="background-color: #3a7090; color:#fff"></td>
