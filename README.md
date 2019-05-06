@@ -148,9 +148,7 @@
   </tr>
     <tr>
       <td>11</td>
-      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-19-property-protocols-arg-in-generator">Lesson 19: Prodef greet(name):
-    print('Hello {name}')
- tocols, @property</a></td>
+      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-19-property-protocols-arg-in-generator">Lesson 19: Protocols, @property, arg for the decorator</a></td>
       <td></td>
   </tr>
     <tr>
