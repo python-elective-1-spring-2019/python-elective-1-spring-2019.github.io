@@ -174,7 +174,7 @@
  </tr>
  <tr>
       <td>12</td>
-      <td><a href="">Lesson 23: </a></td>
+      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-23-Exam-flow-and-exam-exercises">Lesson 23: Exam flow, and exam exercises</a></td>
       <td></td>
 </tr>
 <tr> 
