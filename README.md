@@ -148,7 +148,7 @@
   </tr>
     <tr>
       <td>11</td>
-      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-19-property-protocols-arg-in-generator">Lesson 19: Protocols, @property, arg for the decorator</a></td>
+      <td><a href="https://github.com/python-elective-1-spring-2019/lesson-19-property-protocols-arg-in-generator">lesson 19: protocols, @property, arg for the decorator</a></td>
       <td></td>
   </tr>
     <tr>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
       <td>12</td>
-      <td><a href="">Lesson 21: </a></td>
+      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-21-Context-Managers-Pickle-Json-Csv-pip-freeze">Lesson 21: Context Managers, Pickle, Json, Csv, pip freeze </a></td>
       <td></td>
  </tr> 
  <tr>
