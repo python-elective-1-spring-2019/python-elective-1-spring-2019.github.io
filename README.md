@@ -169,12 +169,12 @@
  </tr> 
  <tr>
       <td>12</td>
-      <td><a href="">Lesson 22: </a></td>
+      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-22-Pip-Freeze-Requirements-Delivery-of-a-Project">Lesson 22: Pip Freeze, Requirements & Delivery of a Project</a></td>
       <td></td>
  </tr>
  <tr>
       <td>12</td>
-      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-23-Exam-flow-and-exam-exercises">Lesson 23: Exam flow, and exam exercises</a></td>
+      <td><a href="https://github.com/python-elective-1-spring-2019/exam">Exam Project Work Start</a></td>
       <td></td>
 </tr>
 <tr> 
